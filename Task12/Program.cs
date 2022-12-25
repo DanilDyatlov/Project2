@@ -9,7 +9,7 @@
 // int number1 = Convert.ToInt32(Console.ReadLine());
 // int number2 = Convert.ToInt32(Console.ReadLine());
 
-// bool result = number1 % number2 == 0;
+// bool result = number1 % number2 == 0; // если же равество правильное то if если не правильно то else (правильно и не правильно )
 
 // if (result) Console.WriteLine("Кратно");
 // else Console.WriteLine ($"Некратно, остаток {number1 % number2}");
